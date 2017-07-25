@@ -13,7 +13,6 @@ int main(){
 	std::cout << "First round: " << diceOne << " and " << diceTwo << std::endl;
 	
 	RollTwoDice(diceOne, diceTwo);
-	std::cout << "Testing github" << std::endl;
 	std::cout << "Second round: " << diceOne << " and " << diceTwo << std::endl;
 	system("PAUSE");
 	return 0;
